@@ -1,1 +1,1 @@
-[tymnim.github.io/portfolio](https://tymnim.github.io/portfolio "Visit portfolio page")
+[tim.nimets.dev/portfolio](https://tim.nimets.dev/portfolio "Visit portfolio page")
